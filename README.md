@@ -1,7 +1,7 @@
   <p align="center">  
-  <a href="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
+  <a href="https://i.imgur.com/WVNOKiH.jpg">
     <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <h1 align="center"> PRABATH-MD</h1>
+    <h1 align="center"> Queen Roxi</h1>
   </a>
 </p>
    
@@ -26,7 +26,7 @@
 
 ---
 
-●. ***[Install Plugins](https://github.com/prabathLK/AUTO-VOICE-SENDER-PRABATH-MD-).***
+●. ***[Install Plugins](https://github.com/evil317/AUTO-VOICE-SENDER-QUEEN-ROXI-).***
   
  ## DEPLOYMENT METHODS
   
