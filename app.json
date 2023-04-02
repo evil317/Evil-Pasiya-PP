@@ -1,10 +1,10 @@
 {
 
-  "name": "Prabath-Md",
+  "name": "Queen Roxi",
 
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
 
-  "logo": "https://i.imgur.com/H062oEI.jpeg",
+  "logo": "https://imgur.com/WVNOKiH.jpg",
 
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
 
@@ -18,7 +18,7 @@
 
   "description": "Name of Bot Owner",
 
-      "value": "prabath"
+      "value": "pasindu"
 
   },
 
@@ -34,7 +34,7 @@
 
     "description": "THUMBNAIL for bot.",
 
-     "value": "https://i.imgur.com/XjNoQ6n.jpeg"
+     "value": "https://i.imgur.com/WVNOKiH.jpg"
 
     },
 
@@ -106,7 +106,7 @@
 
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
 
-       "value": "94762280384"
+       "value": "94703768140"
 
   },
 
@@ -146,7 +146,7 @@
 
     "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
 
-     "value": "SECKTOR"
+     "value": "Queen Roxi"
 
   },
 
@@ -172,7 +172,7 @@
 
     "description": "Put packname;authorname.",
 
-     "value": "PRABATH-MD🎊;𝚙𝚛𝚊𝚋𝚊𝚝𝚑✅",
+     "value": "Queen Roxi",
 
      "required": false 
 
